@@ -26,6 +26,10 @@ This project is a basic implementation focusing on learning and experimenting wi
    ```
 
   4. To deploy the project, run:
-      ```bash
-      npm run deploy
-      ```
+    ```bash
+    npm run deploy
+    ```
+
+## Acknowledgements
+
+Thanks to [this tutorial](https://youtu.be/zKguO4oaAGs?si=yYWlmPdjXGRltrIK) for guidance.
