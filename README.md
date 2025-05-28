@@ -21,7 +21,11 @@ This project is a basic implementation focusing on learning and experimenting wi
 1. Clone the repository
 2. Install dependencies with `npm install`
 3. Start the Tailwind watcher with:
+   ```bash
+   npm run watch
+   ```
 
-    ```bash
-    npm run watch
-    ```
+  4. To deploy the project, run:
+      ```bash
+      npm run deploy
+      ```
